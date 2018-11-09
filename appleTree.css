@@ -9,3 +9,11 @@ body {
 	text-align:center;
 	line-height: 100px;
 }
+.big{
+	color:white;
+	width: 200px;
+	height: 200px;
+	background: navy;
+	text-align:center;
+	line-height: 200px;
+}
