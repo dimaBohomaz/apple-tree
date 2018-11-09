@@ -1,4 +1,8 @@
 body {
 	background:lightblue;
 }
-.square{color:pirple;}
+.square{
+	color:blue;
+	width: 50%;
+	background: lightgreen;
+}
