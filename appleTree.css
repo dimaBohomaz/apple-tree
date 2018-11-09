@@ -3,6 +3,9 @@ body {
 }
 .square{
 	color:blue;
-	width: 50%;
-	background: lightgreen;
+	width: 100px;
+	height: 100px;
+	background: red;
+	text-align:center;
+	line-height: 100px;
 }
